@@ -20,6 +20,6 @@ The BeamBCI is a highly modular software that is built on standard tools for sci
 **Results**\
 The BeamBCI showed a stable performance during more than 300 sessions involving healthy participants, stroke survivors, and tetraplegics using a BCI to control a virtual actuator, motorized orthosis, or domestic appliances.
 
-#### Conclusion
+**Conclusion**\
 The BeamBCI is a reliable and performant basis for various BCI experiments and greatly facilitates implementation, execution, and documentation of BCI studies.
 
